@@ -42,8 +42,6 @@ The Seller Labs Team
 ## When you start:
 - [ ] You will need to bring the documents proving employment eligibility.
 
-- [ ] Sign paper copies of the Gusto forms you filled out online.
-
 - [ ] Connect to [wifi](https://github.com/sellerlabs/lounge/blob/master/wifi.md) if you're in the Athens office.
 
 - [ ] Within the first few days of starting, you'll receive an email from MyUbiquity to make your 401(k) selections (optional). 
