@@ -19,12 +19,12 @@ The Seller Labs Team
 
 - [ ] You'll be assigned a yourname@sellerlabs.com email address. Set that up. This will include an email alias of yourname@roundsphere.com.
 
-- [ ] You'll receive a list of current benefits and costs.
+- [ ] Sign a non-compete agreement. 
 
 - [ ] You'll get an email from EaseCentral, our benefits administrator. There, you need to:
-
-  - [ ] Sign a non-compete agreement. 
-
+  
+  - [ ] You'll receive a list of current benefits and costs.
+  
   - [ ] Make your health and dental insurance elections or waivers.
 
 - [ ] You'll receive an email from Gusto.com, our PayRoll administrator, to:
