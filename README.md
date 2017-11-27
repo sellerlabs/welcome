@@ -17,7 +17,7 @@ The Seller Labs Team
 
 - [ ] You'll be asked your preferred computer so it can be prepared for you. 
 
-- [ ] You'll be assigned a yourname@sellerlabs.com email address. Set that up. This will include an email alias of yourname@roundsphere.com.
+- [ ] You'll be assigned a firstname.lastname@sellerlabs.com email address. Set that up. This will include an email alias of firstname.lastname@roundsphere.com.
 
 - [ ] Sign a non-compete agreement. 
 
