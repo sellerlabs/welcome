@@ -60,7 +60,7 @@ The Seller Labs Team
 
 - [ ] Take a picture of yourself and add it to the [company directory](https://sites.google.com/a/roundsphere.com/sellerlabsnet/directory). 
 
-- [ ] Check out this [presentation](https://docs.google.com/a/roundsphere.com/presentation/d/1MEPxa-Z1XGlr2NB12mcWg5K3muQ9l5dNSc7XO-u0IG8/edit?usp=sharing) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. (Accompanying audio recording to come soon!)
+- [ ] Check out this [presentation](https://docs.google.com/a/roundsphere.com/presentation/d/1MEPxa-Z1XGlr2NB12mcWg5K3muQ9l5dNSc7XO-u0IG8/edit?usp=sharing) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. Accompanying audio recording is also [available](https://www.youtube.com/watch?v=0-eSJVQrVS0).
 
 - [ ] As you are starting, you should review this document and all of the lounge repo for accuracy. Is anything here wrong? Fix it!
 
