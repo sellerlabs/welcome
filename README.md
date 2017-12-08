@@ -62,7 +62,7 @@ The Seller Labs Team
 
 - [ ] Check out this [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. Accompanying slides are also available [separately](https://docs.google.com/a/roundsphere.com/presentation/d/1MEPxa-Z1XGlr2NB12mcWg5K3muQ9l5dNSc7XO-u0IG8/edit?usp=sharing).
 
-- [ ] As you are starting, you should review this document and all of the lounge repo for accuracy. Is anything here wrong? Fix it!
+- [ ] As you are starting, you should review this document and all of the [lounge repo](https://github.com/sellerlabs/lounge) for accuracy. Is anything here wrong? Fix it!
 
 - [ ] Read [this great thread](https://twitter.com/KieranSnyder/status/774253168247005185) on how to get started at a new job.
 
