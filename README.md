@@ -62,6 +62,8 @@ The Seller Labs Team
 
 - [ ] Check out this [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. Accompanying slides are also available [separately](https://docs.google.com/a/roundsphere.com/presentation/d/1MEPxa-Z1XGlr2NB12mcWg5K3muQ9l5dNSc7XO-u0IG8/edit?usp=sharing).
 
+- [ ] Provide ops with your username for GitHub so they can add you to our teams. [Create a free account](https://github.com/join) if you don't have a GitHub account already.
+
 - [ ] As you are starting, you should review this document and all of the [lounge repo](https://github.com/sellerlabs/lounge) for accuracy. Is anything here wrong? Fix it!
 
 - [ ] Read [this great thread](https://twitter.com/KieranSnyder/status/774253168247005185) on how to get started at a new job.
@@ -74,8 +76,6 @@ The Seller Labs Team
 
 ## Developer Onboarding:
 - [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for yourname@sellerlabs.com. If you don't have it yet, ping @brian. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
-
-- [ ] Provide ops with your username for GitHub so they can add you to our teams. [Create a free account](https://github.com/join) if you don't have a GitHub account already.
 
 - [ ] You'll be given an AWS account. You should be in the developers group. It is recommended you enable [MFA (multi-factor authentication)](https://github.com/sellerlabs/lounge/blob/master/mfa.md).
 
