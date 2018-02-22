@@ -52,8 +52,6 @@ The Seller Labs Team
 
 - [ ] Make a Trello account with your @sellerlabs.com address and set your username to `sl_yourname`.
 
-- [ ] Say hello to the team! Write a short summary in [Slack](https://github.com/sellerlabs/lounge/blob/master/slack-guidelines.md) (#lounge channel) about yourself introducing yourself to the team.
-
 - [ ] Ask someone on your team to add you to the appropriate Google Calendars: "Seller Labs Events" and "Leave".
 
 - [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg)!
