@@ -106,7 +106,7 @@ The Seller Labs Team
   - [ ] #daily-scrum
   - [ ] #fbg
   - [ ] #ignite
-  - [ ] #product-team,
+  - [ ] #product-team
   - [ ] #quantify
   - [ ] #scope
   - [ ] #slapp
