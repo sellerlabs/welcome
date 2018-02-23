@@ -120,7 +120,7 @@ The Seller Labs Team
   - [ ] Defects Grooming
   - [ ] Sprint Demo Day
   - [ ] Sprint Review & Planning
-  - [ ] Retro Retro.
+  - [ ] Retro Retro
 
 - [ ] Coordinate with your manager to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be with:
   - [ ] Each Associate Product Manager for product walkthroughs
