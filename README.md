@@ -98,19 +98,19 @@ The Seller Labs Team
 
 - [ ] Ask Katie and team members for invites to any other private Slack groups to which you need access.
 
-- [ ] Ask VP of Product to be invited to the following recurring Product Team-related events: Daily Standup, PM Sprint Planning, Defects Grooming, Sprint Demo Day, Sprint Review & Planning, Retro Retro
+- [ ] Ask VP of Product to be invited to the following recurring Product Team-related events: Daily Standup, PM Sprint Planning, Defects Grooming, Sprint Demo Day, Sprint Review & Planning, Retro Retro.
 
 - [ ] Coordinate with Katie to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be: each Associate Product Manager for product walkthroughs, each Tier 2 Customer Success Representative for user pain points and product walkthroughs, each design lead for an understanding of customer journey and flow.
 
 - [ ] Create an account at [Seller Labs University](http://www.sellerlabsuniversity.com). Sign-up for any available courses and bookmark the site.
 
-- [ ] Navigate to the [Customer Success Training Module](https://seller-labs-university.thinkific.com/bundles/customer-success-training) and click the button to add the course to your curriculum
+- [ ] Navigate to the [Customer Success Training Module](https://seller-labs-university.thinkific.com/bundles/customer-success-training) and click the button to add the course to your curriculum.
 
 - [ ] Over your first few weeks, work through the Seller Labs University courses.
 
 - [ ] To better understand our customer experience, we suggest performing new user registration for all products and documenting your observations and pain points. There is nothing more valuable than a fresh set of eyes! Take this a step further and create flow charts based on our user experience.
 
-- [ ] Review our [synchronized sprint schedule](https://docs.google.com/presentation/d/1ATMN-eqE4InQEOco66c04HdL-wdFD7LweYjgfIhQWQc/edit#slide=id.p10)
+- [ ] Review our [synchronized sprint schedule](https://docs.google.com/presentation/d/1ATMN-eqE4InQEOco66c04HdL-wdFD7LweYjgfIhQWQc/edit#slide=id.p10).
 
 
 ## Who to contact with questions:
