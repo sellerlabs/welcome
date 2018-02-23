@@ -106,9 +106,9 @@ The Seller Labs Team
 
 - [ ] Create an account at [Seller Labs University](http://www.sellerlabsuniversity.com). Sign-up for any available courses and bookmark the site.
 
-- [ ] Navigate to the Customer Success Training Module(https://seller-labs-university.thinkific.com/bundles/customer-success-training) and click the button to add the course to your curriculum
+- [ ] Navigate to the [Customer Success Training Module](https://seller-labs-university.thinkific.com/bundles/customer-success-training) and click the button to add the course to your curriculum
 
-- [ ] During your downtime over the first few weeks, work through the Seller Lab courses.
+- [ ] Over your first few weeks, work through the Seller Labs University courses.
 
 - [ ] To better understand our customer experience, we suggest performing new user registration for all products and documenting your observations and pain points. There is nothing more valuable than a fresh set of eyes! Take this a step further and create flow charts based on our user experience.
 
