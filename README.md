@@ -94,46 +94,15 @@ The Seller Labs Team
 
 - [ ] Create an account on [SellerLabs.com](http://www.SellerLabs.com) that is associated to your work email.
 
-- [ ] Reach out to Brian Whigham (Ops) on Slack and request access to the following product-specific tools:
-⋅⋅* Mailchimp/Mandrill
-..* Periscope
-..* Seller Labs Pro
-..* Stripe (role: Support Specialist)
-..* Trello
-..* Zeplin
-..* Microsoft 365 (Primarily for Excel)
+- [ ] Reach out to @brian (Ops) on Slack and request access to the following product-specific tools: Mailchimp/Mandrill, Periscope, Seller Labs Pro, Stripe (role: Support Specialist), Trello, Zeplin, Microsoft 365 (Primarily for Excel)
 
-- [ ] Join the following Slack channels:
-..* #athens, if you are in the Athens office
-..* #daily-scrum
-..* #fbg
-..* #ignite
-..* #lounge
-..* #notifications
-..* #people
-..* #product-team
-..* #quantify
-..* #scope
-..* #slapp
-..* Any channels associated to the product(s) that you will be assigned to
-..* See anything you're interested in? Join it! We even have a book club.
+- [ ] Join the following product-related Slack channels: #daily-scrum, #fbg, #ignite, #product-team, #quantify, #scope, #slapp, and any channels associated to the product(s) that to which you will be assigned.
 
 - [ ] Ask Katie and team members for invites to any other private Slack groups to which you need access.
 
-- [ ] Make sure to adjust your Slack preferences to meet your individual needs. For example, adjusting the sidebar to show only unread channels can be a great way to de-clutter your Slack!
+- [ ] Ask VP of Product to be invited to the following recurring Product Team-related events: Daily Standup, PM Sprint Planning, Defects Grooming, Sprint Demo Day, Sprint Review & Planning, Retro Retro
 
-- [ ] Ask VP of Product to be invited to the following recurring Product Team-related events:
-..* Daily Standup
-..* PM Sprint Planning
-..* Defects Grooming
-..* Sprint Demo Day
-..* Sprint Review & Planning
-..* Retro Retro
-
-- [ ] Coordinate with Katie to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be:
-..* Each Associate Product Manager for product walkthroughs.
-..* Each Tier 2 Customer Success Representative for user pain points and product walkthroughs.
-..* Each design lead for an understanding of customer journey and flow.
+- [ ] Coordinate with Katie to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be: each Associate Product Manager for product walkthroughs, each Tier 2 Customer Success Representative for user pain points and product walkthroughs, each design lead for an understanding of customer journey and flow.
 
 - [ ] Create an account at [Seller Labs University](http://www.sellerlabsuniversity.com). Sign-up for any available courses and bookmark the site.
 
