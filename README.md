@@ -83,7 +83,9 @@ The Seller Labs Team
 ## Product Team Onboarding:
 - [ ] Install [Google Chrome](https://www.google.com/chrome/). You'll need it for Trello.
 
-- [ ] Install the following Trello-related Google Chrome extensions: [Trelabels](https://chrome.google.com/webstore/detail/trelabels-for-trello/annjdmkbhchmobehkcfilecnlhibedbj?hl=en), [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje?hl=en).
+- [ ] Install the following Trello-related Google Chrome extensions:
+  - [ ] [Trelabels](https://chrome.google.com/webstore/detail/trelabels-for-trello/annjdmkbhchmobehkcfilecnlhibedbj?hl=en)
+  - [ ] [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje?hl=en).
 
 - [ ] Take time to familiarize yourself with our [Trello](https://trello.com/sellerlabs2) account. Add yourself to the boards that apply to the product(s) that you will be working.
 
@@ -91,15 +93,39 @@ The Seller Labs Team
 
 - [ ] Create an account on [SellerLabs.com](http://www.SellerLabs.com) that is associated to your work email.
 
-- [ ] Reach out to @brian (Ops) on Slack and request access to the following product-specific tools: Mailchimp/Mandrill, Periscope, Seller Labs Pro, Stripe (role: Support Specialist), Trello, Zeplin, Microsoft 365 (Primarily for Excel).
+- [ ] Reach out to @brian (Ops) on Slack and request access to the following product-specific tools:
+  - [ ] Mailchimp/Mandrill
+  - [ ] Microsoft 365  
+  - [ ] Periscope
+  - [ ] Seller Labs Pro
+  - [ ] Stripe (role: Support Specialist)
+  - [ ] Trello
+  - [ ] Zeplin
 
-- [ ] Join the following product-related Slack channels: #daily-scrum, #fbg, #ignite, #product-team, #quantify, #scope, #slapp, and any channels associated to the product(s) that to which you will be assigned.
+- [ ] Join the following product-related Slack channels:
+  - [ ] #daily-scrum
+  - [ ] #fbg
+  - [ ] #ignite
+  - [ ] #product-team,
+  - [ ] #quantify
+  - [ ] #scope
+  - [ ] #slapp
+  - [ ] Any channels associated to the product(s) that to which you will be assigned
 
 - [ ] Ask your manager and team members for invites to any other private Slack groups to which you need access.
 
-- [ ] Ask your manager for invites to the following recurring Product Team-related events: Daily Standup, PM Sprint Planning, Defects Grooming, Sprint Demo Day, Sprint Review & Planning, Retro Retro.
+- [ ] Ask your manager for invites to the following recurring Product Team-related events:
+  - [ ] Daily Standup
+  - [ ] PM Sprint Planning
+  - [ ] Defects Grooming
+  - [ ] Sprint Demo Day
+  - [ ] Sprint Review & Planning
+  - [ ] Retro Retro.
 
-- [ ] Coordinate with your manager to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be: each Associate Product Manager for product walkthroughs, each Tier 2 Customer Success Representative for user pain points and product walkthroughs, each design lead for an understanding of customer journey and flow.
+- [ ] Coordinate with your manager to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be with:
+  - [ ] Each Associate Product Manager for product walkthroughs
+  - [ ] Each Tier 2 Customer Success Representative for user pain points and product walkthroughs
+  - [ ] Each design lead for an understanding of customer journey and flow
 
 - [ ] Create an account at [Seller Labs University](http://www.sellerlabsuniversity.com). Sign-up for any available courses and bookmark the site.
 
