@@ -73,7 +73,7 @@ The Seller Labs Team
 - [ ] Over the course of the next two weeks, introduce yourself personally to 8 people. Ideally, this is a 10 - 15 minute conversation that is intended to break the ice. Be creative; go for a coffee. Don't forget our remote folks!
 
 ## Customer Success Onboarding:
-- [ ] Create an account on [Seller Labs University](https://www.sellerlabsuniversity.com/users/sign_up). Ask the Head of Customer Success to add you to the internal team to access some great [intro courses](https://github.com/sellerlabs/customer-success/blob/master/documentation/slu-courses.md).
+- [ ] Create an account on [Seller Labs University](https://www.sellerlabsuniversity.com/users/sign_up). Ask the Head of Customer Success to add you to the internal team to access some great [intro courses](https://github.com/sellerlabs/customer-success/blob/master/documentation/slu-courses.md).  More detailed information coming soon.
 
 ## Developer Onboarding:
 - [ ] You'll be given an AWS account. You should be in the developers group. It is recommended you enable [MFA (multi-factor authentication)](https://github.com/sellerlabs/lounge/blob/master/mfa.md).
