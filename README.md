@@ -76,10 +76,9 @@ The Seller Labs Team
 - [ ] Create an account on [Seller Labs University](https://www.sellerlabsuniversity.com/users/sign_up). Ask the Head of Customer Success to add you to the internal team to access some great [intro courses](https://github.com/sellerlabs/customer-success/blob/master/documentation/slu-courses.md).
 
 ## Developer Onboarding:
-
 - [ ] You'll be given an AWS account. You should be in the developers group. It is recommended you enable [MFA (multi-factor authentication)](https://github.com/sellerlabs/lounge/blob/master/mfa.md).
 
-- [ ] Read over [Responsibilities](https://github.com/sellerlabs/lounge/blob/master/responsibilities.md)
+- [ ] Read over [Responsibilities](https://github.com/sellerlabs/lounge/blob/master/responsibilities.md).
 
 ## Product Team Onboarding:
 - [ ] Install [Google Chrome](https://www.google.com/chrome/). You'll need it for Trello.
@@ -92,7 +91,7 @@ The Seller Labs Team
 
 - [ ] Create an account on [SellerLabs.com](http://www.SellerLabs.com) that is associated to your work email.
 
-- [ ] Reach out to @brian (Ops) on Slack and request access to the following product-specific tools: Mailchimp/Mandrill, Periscope, Seller Labs Pro, Stripe (role: Support Specialist), Trello, Zeplin, Microsoft 365 (Primarily for Excel)
+- [ ] Reach out to @brian (Ops) on Slack and request access to the following product-specific tools: Mailchimp/Mandrill, Periscope, Seller Labs Pro, Stripe (role: Support Specialist), Trello, Zeplin, Microsoft 365 (Primarily for Excel).
 
 - [ ] Join the following product-related Slack channels: #daily-scrum, #fbg, #ignite, #product-team, #quantify, #scope, #slapp, and any channels associated to the product(s) that to which you will be assigned.
 
