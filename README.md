@@ -87,7 +87,7 @@ The Seller Labs Team
 
 - [ ] Take time to familiarize yourself with our [Trello](https://trello.com/sellerlabs2) account. Add yourself to the boards that apply to the product(s) that you will be working.
 
-- [ ] Review and familiarize yourself with the [Product folder](https://drive.google.com/drive/folders/1-Y-bO6iNy2yvXYYRPRegL1v-lKW4VxoQ) on Seller Lab's Google drive.
+- [ ] Dig around the [Product folder](https://drive.google.com/drive/folders/1-Y-bO6iNy2yvXYYRPRegL1v-lKW4VxoQ) on Seller Lab's Google drive. See anything interesting that you want to talk about?
 
 - [ ] Create an account on [SellerLabs.com](http://www.SellerLabs.com) that is associated to your work email.
 
@@ -95,11 +95,11 @@ The Seller Labs Team
 
 - [ ] Join the following product-related Slack channels: #daily-scrum, #fbg, #ignite, #product-team, #quantify, #scope, #slapp, and any channels associated to the product(s) that to which you will be assigned.
 
-- [ ] Ask Katie and team members for invites to any other private Slack groups to which you need access.
+- [ ] Ask your manager and team members for invites to any other private Slack groups to which you need access.
 
-- [ ] Ask VP of Product to be invited to the following recurring Product Team-related events: Daily Standup, PM Sprint Planning, Defects Grooming, Sprint Demo Day, Sprint Review & Planning, Retro Retro.
+- [ ] Ask your manager for invites to the following recurring Product Team-related events: Daily Standup, PM Sprint Planning, Defects Grooming, Sprint Demo Day, Sprint Review & Planning, Retro Retro.
 
-- [ ] Coordinate with Katie to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be: each Associate Product Manager for product walkthroughs, each Tier 2 Customer Success Representative for user pain points and product walkthroughs, each design lead for an understanding of customer journey and flow.
+- [ ] Coordinate with your manager to determine the key individuals you should meet with for introductory 1:1 meetings. Typically, these folks will be: each Associate Product Manager for product walkthroughs, each Tier 2 Customer Success Representative for user pain points and product walkthroughs, each design lead for an understanding of customer journey and flow.
 
 - [ ] Create an account at [Seller Labs University](http://www.sellerlabsuniversity.com). Sign-up for any available courses and bookmark the site.
 
