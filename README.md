@@ -85,7 +85,7 @@ The Seller Labs Team
 
 - [ ] Install the following Trello-related Google Chrome extensions:
   - [ ] [Trelabels](https://chrome.google.com/webstore/detail/trelabels-for-trello/annjdmkbhchmobehkcfilecnlhibedbj?hl=en)
-  - [ ] [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje?hl=en).
+  - [ ] [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje?hl=en)
 
 - [ ] Take time to familiarize yourself with our [Trello](https://trello.com/sellerlabs2) account. Add yourself to the boards that apply to the product(s) that you will be working.
 
