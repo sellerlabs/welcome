@@ -19,7 +19,7 @@ The Seller Labs Team
 
 - [ ] You'll be assigned a firstname.lastname@sellerlabs.com email address. Set that up. This will include an email alias of firstname.lastname@roundsphere.com.
 
-- [ ] Sign the Seller Labs Restrictive Covenent. 
+- [ ] Sign the Seller Labs Restrictive Covenant. 
 
 - [ ] You'll get an email from EaseCentral, our benefits administrator. There, you need to:
   
