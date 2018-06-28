@@ -50,8 +50,6 @@ The Seller Labs Team
 
 - [ ] Ask your team to invite you to the everyone, devs, and other appropriate Google Apps groups.
 
-- [ ] Make a Trello account with your @sellerlabs.com address and set your username to `sl_yourname`.
-
 - [ ] Ask someone on your team to add you to the appropriate Google Calendars: [Seller Labs Events](https://calendar.google.com/calendar/embed?src=roundsphere.com_v7o7fnubciu8pi5ihni437j6e4%40group.calendar.google.com&ctz=America%2FNew_York) and [Leave](https://calendar.google.com/calendar/embed?src=roundsphere.com_sd6r3nmregejpaqdv6jb945d00%40group.calendar.google.com&ctz=America%2FNew_York). Note that most of your teammates' calendars are also accessible to view by searching for their name in the left sidebar on Google Calendar. You can then toggle viewing their calendar on and off. This might be nice for someone you'll be pairing with a lot in your first weeks, or for your manager.
 
 - [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg)!
@@ -64,7 +62,7 @@ The Seller Labs Team
 
 - [ ] Provide ops with your username for GitHub so they can add you to our teams. [Create a free account](https://github.com/join) if you don't have a GitHub account already.
 
-- [ ] As you are starting, you should review this document and all of the [lounge repo](https://github.com/sellerlabs/lounge) for accuracy. Is anything here wrong? Fix it!
+- [ ] As you are starting, you should review this document and all of the [lounge repo](https://github.com/sellerlabs/lounge) for accuracy. Is anything here wrong? You can fix it!
 
 - [ ] Read [this great thread](https://twitter.com/KieranSnyder/status/774253168247005185) on how to get started at a new job.
 
@@ -84,9 +82,9 @@ The Seller Labs Team
 ## Who to contact with questions:
 HR Director: Maria Goldsholl (maria.goldsholl@techcxo.com)
 
-Benefits and paycheck questions: Fran Neumeister (fran@sellerlabs.com)
+Benefits and paycheck questions: Fran Neumeister (fran@sellerlabs.com) and Karen Hogan (karen.hogan@sellerlabs.com)
 
 Developer setup: Brian Whigham (brian@sellerlabs.com)
 
-(All three of them are available on Slack as well!)
+(All four of them are available on Slack as well!)
 
