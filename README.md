@@ -1,6 +1,6 @@
 # Welcome to Seller Labs!
 
-And congratulations on becoming part of the Seller Labs community. This is a [public documentaion repository](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) full of important information that will help you get started at Seller Labs and we encourage you to make yourself familiar with all the information here. Once we add you to the Seller Labs GitHub [team](https://github.com/sellerlabs), you'll have access to more detailed private repos as well. But really, the most important thing we want you to know is that your being here means you are the best at what you do. Our team members aren’t just smart, they’re brilliant and creative, which makes for a fantastic work environment.
+And congratulations on becoming part of the Seller Labs community. This is a [public documentation repository](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) full of important information that will help you get started at Seller Labs and we encourage you to make yourself familiar with all the information here. Once we add you to the Seller Labs GitHub [team](https://github.com/sellerlabs), you'll have access to more detailed private repos as well. But really, the most important thing we want you to know is that your being here means you are the best at what you do. Our team members aren’t just smart, they’re brilliant and creative, which makes for a fantastic work environment.
 
 So after you’ve read the details that follow, settle in, relax and get ready to have the best work experience of your life.
 
@@ -19,32 +19,10 @@ The Seller Labs Team
 
 - [ ] You'll be assigned a firstname.lastname@sellerlabs.com email address. Set that up. This will include an email alias of firstname.lastname@roundsphere.com.
 
-- [ ] Sign the Seller Labs Restrictive Covenant. 
-
-- [ ] You'll get an email from EaseCentral, our benefits administrator. There, you need to:
-  
-  - [ ] You'll receive a list of current benefits and costs.
-  
-  - [ ] Make your health and dental insurance elections or waivers.
-
-- [ ] You'll receive an email from Gusto.com, our PayRoll administrator, to:
-
-  - [ ] Make your W2 elections. 
-
-  - [ ] Enter your banking information for direct deposit (if desired). 
-
-- [ ] You'll be told what documents you need to bring on your first day of work to prove your US employment eligibility. This should most likely be your social security card and driver's license or a passport.
-
-- [ ] You'll receive invites to the RoundSphere and Seller Labs [Slack teams](https://github.com/sellerlabs/lounge/blob/master/slack-guidelines.md).
-
-- [ ] You'll receive a link to an employment contract to sign. 
+- [ ] You will receive a "Welcome Letter" from Human Resources that will cover instructions for your first day, payroll and benefit information. 
 
 ## When you start:
-- [ ] You will need to bring the documents proving employment eligibility.
-
-- [ ] Connect to [wifi](https://github.com/sellerlabs/lounge/blob/master/wifi.md) if you're in the Athens office.
-
-- [ ] Within the first few days of starting, you'll receive an email from MyUbiquity to make your 401(k) selections (optional). 
+- [ ] Connect to [wifi](https://github.com/sellerlabs/lounge/blob/master/wifi.md) if you're in the Athens office. 
 
 - [ ] Ask your team to invite you to the appropriate Slack channels. 
 
