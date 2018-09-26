@@ -57,6 +57,8 @@ The Seller Labs Team
 
 - [ ] Read over [Responsibilities](https://github.com/sellerlabs/lounge/blob/master/responsibilities.md)
 
+- [ ] Ensure you have a good understanding of our [git best practices](https://github.com/sellerlabs/engineering-lounge/blob/master/git/style.md) and [code review policy](https://github.com/sellerlabs/engineering-lounge/blob/master/code-review.md).
+
 ## Who to contact with questions:
 HR Director: Maria Goldsholl (maria.goldsholl@techcxo.com)
 
