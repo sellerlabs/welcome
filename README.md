@@ -17,18 +17,15 @@ The Seller Labs Team
 
 - [ ] You'll be asked your preferred computer so it can be prepared for you. 
 
-- [ ] You'll be assigned a firstname.lastname@sellerlabs.com email address. Set that up. This will include an email alias of firstname.lastname@roundsphere.com.
-
+- [ ] You'll be assigned a firstname.lastname@sellerlabs.com email address. Set that up. 
 - [ ] You will receive a "Welcome Letter" from Human Resources that will cover instructions for your first day, payroll and benefit information. 
 
 ## When you start:
 - [ ] Connect to [wifi](https://github.com/sellerlabs/lounge/blob/master/wifi.md) if you're in the Athens office. 
 
-- [ ] Ask your team to invite you to the appropriate Slack channels. 
+- [ ] You should have received invitations to Slack - ask your team to invite you to the appropriate Slack channels. 
 
-- [ ] Ask your team to invite you to the everyone, devs, and other appropriate Google Apps groups.
-
-- [ ] Ask someone on your team to add you to the appropriate Google Calendars: [Seller Labs Events](https://calendar.google.com/calendar/embed?src=roundsphere.com_v7o7fnubciu8pi5ihni437j6e4%40group.calendar.google.com&ctz=America%2FNew_York) and [Leave](https://calendar.google.com/calendar/embed?src=roundsphere.com_sd6r3nmregejpaqdv6jb945d00%40group.calendar.google.com&ctz=America%2FNew_York). Note that most of your teammates' calendars are also accessible to view by searching for their name in the left sidebar on Google Calendar. You can then toggle viewing their calendar on and off. This might be nice for someone you'll be pairing with a lot in your first weeks, or for your manager.
+- [ ] DevOps should have set you up to the appropriate Google Apps groups and Calendars for Events and Leave:  [Seller Labs Events](https://calendar.google.com/calendar/embed?src=roundsphere.com_v7o7fnubciu8pi5ihni437j6e4%40group.calendar.google.com&ctz=America%2FNew_York) and [Leave](https://calendar.google.com/calendar/embed?src=roundsphere.com_sd6r3nmregejpaqdv6jb945d00%40group.calendar.google.com&ctz=America%2FNew_York). Note that most of your teammates' calendars are also accessible to view by searching for their name in the left sidebar on Google Calendar. You can then toggle viewing their calendar on and off. This might be nice for someone you'll be pairing with a lot in your first weeks, or for your manager.
 
 - [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg)!
 
@@ -38,7 +35,7 @@ The Seller Labs Team
 
 - [ ] Check out this [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. Accompanying slides are also available [separately](https://docs.google.com/a/roundsphere.com/presentation/d/1MEPxa-Z1XGlr2NB12mcWg5K3muQ9l5dNSc7XO-u0IG8/edit?usp=sharing).
 
-- [ ] Provide ops with your username for GitHub so they can add you to our teams. [Create a free account](https://github.com/join) if you don't have a GitHub account already.
+- [ ] Provide DevOps with your username for GitHub so they can add you to our teams.  They may have created you one with your sellerlabs email.
 
 - [ ] As you are starting, you should review this document and all of the [lounge repo](https://github.com/sellerlabs/lounge) for accuracy. Is anything here wrong? You can fix it!
 
@@ -48,7 +45,11 @@ The Seller Labs Team
 
 ## Customer Success Onboarding:
 
-- [ ] Create an account on [Seller Labs University](https://www.sellerlabsuniversity.com/users/sign_up). Ask the Head of Customer Success to add you to the internal team to access some great [intro courses](https://github.com/sellerlabs/customer-success/blob/master/documentation/slu-courses.md).
+- [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for yourname@sellerlabs.com. If you don't have it yet, ping @brian. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
+
+- [ ] Get someone to help you setup your account in the [sellerlabs App](https://accounts.sellerlabs.com/).
+
+- [ ] You will probably also get invites to things like Intercoma and mailchimp. Be on the lookout for those.
 
 ## Developer Onboarding:
 - [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for yourname@sellerlabs.com. If you don't have it yet, ping @brian. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
