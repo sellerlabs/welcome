@@ -47,9 +47,9 @@ The Seller Labs Team
 
 - [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for yourname@sellerlabs.com. If you don't have it yet, ping @brian. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
 
-- [ ] Get someone to help you setup your account in the [sellerlabs App](https://accounts.sellerlabs.com/).
+- [ ] Get someone to help you setup your account in the [Seller Labs App](https://accounts.sellerlabs.com/). You can create a free account there yourself (with your SL email), and then DevOps can make you an admin user.
 
-- [ ] You will probably also get invites to things like Intercoma and mailchimp. Be on the lookout for those.
+- [ ] You will probably also get invites to things like Intercom and Mandrill. Be on the lookout for those.
 
 ## Developer Onboarding:
 - [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for yourname@sellerlabs.com. If you don't have it yet, ping @brian. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
