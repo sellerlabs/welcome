@@ -23,7 +23,7 @@ The Seller Labs Team
 ## When you start:
 - [ ] Connect to [wifi](https://github.com/sellerlabs/lounge/blob/master/wifi.md) if you're in the Athens office. 
 
-- [ ] You should have received invitations to Slack - ask your team to invite you to the appropriate Slack channels. 
+- [ ] You should have received an invitations to the Seller Labs Slack - ask your team to invite you to the appropriate Slack channels. 
 
 - [ ] DevOps should have set you up to the appropriate Google Apps groups and Calendars for Events and Leave:  [Seller Labs Events](https://calendar.google.com/calendar/embed?src=roundsphere.com_v7o7fnubciu8pi5ihni437j6e4%40group.calendar.google.com&ctz=America%2FNew_York) and [Leave](https://calendar.google.com/calendar/embed?src=roundsphere.com_sd6r3nmregejpaqdv6jb945d00%40group.calendar.google.com&ctz=America%2FNew_York). Note that most of your teammates' calendars are also accessible to view by searching for their name in the left sidebar on Google Calendar. You can then toggle viewing their calendar on and off. This might be nice for someone you'll be pairing with a lot in your first weeks, or for your manager.
 
