@@ -29,6 +29,8 @@ The Seller Labs Team
 
 - [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg)!
 
+- [ ] You should have an account for backing upi your laptop - instructions [Here!](https://github.com/sellerlabs/lounge/blob/51f3e588c863802fea6be462042190eea62f8136/security/backups.md)
+
 - [ ] Hearing tons of terms and acronyms you don't know? Check out the [Seller Labs dictionary](https://docs.google.com/document/d/1hL93Ibz2Y2CUGHoCElv13T6N57yxetNSz35yvZAJ3jM/edit#heading=h.sv5mn78ew49i) for help!
 
 - [ ] Take a picture of yourself and add it to the [company directory](https://sites.google.com/a/roundsphere.com/sellerlabsnet/directory). 
