@@ -27,17 +27,17 @@ The Seller Labs Team
 
 - [ ] DevOps should have set you up to the appropriate Google Apps groups and Calendars for Events and Leave:  [Seller Labs Events](https://calendar.google.com/calendar/embed?src=roundsphere.com_v7o7fnubciu8pi5ihni437j6e4%40group.calendar.google.com&ctz=America%2FNew_York) and [Leave](https://calendar.google.com/calendar/embed?src=roundsphere.com_sd6r3nmregejpaqdv6jb945d00%40group.calendar.google.com&ctz=America%2FNew_York). Note that most of your teammates' calendars are also accessible to view by searching for their name in the left sidebar on Google Calendar. You can then toggle viewing their calendar on and off. This might be nice for someone you'll be pairing with a lot in your first weeks, or for your manager.
 
-- [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg)!
+- [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg).
 
-- [ ] You should have an account for backing up your laptop - instructions [here!](https://github.com/sellerlabs/lounge/blob/master/security/backups.md)
+- [ ] You should have an account for [backing up your laptop](https://github.com/sellerlabs/lounge/blob/master/security/backups.md).
 
-- [ ] Hearing tons of terms and acronyms you don't know? Check out the [Seller Labs dictionary](https://docs.google.com/document/d/1hL93Ibz2Y2CUGHoCElv13T6N57yxetNSz35yvZAJ3jM/edit#heading=h.sv5mn78ew49i) for help!
+- [ ] Hearing tons of terms and acronyms you don't know? Check out the [Seller Labs Dictionary](https://docs.google.com/document/d/1hL93Ibz2Y2CUGHoCElv13T6N57yxetNSz35yvZAJ3jM/edit#heading=h.sv5mn78ew49i) for help!
 
 - [ ] Take a picture of yourself and add it to the [company directory](https://sites.google.com/a/roundsphere.com/sellerlabsnet/directory). 
 
-- [ ] Check out this [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. Accompanying slides are also available [separately](https://docs.google.com/a/roundsphere.com/presentation/d/1MEPxa-Z1XGlr2NB12mcWg5K3muQ9l5dNSc7XO-u0IG8/edit?usp=sharing).
+- [ ] Check out this [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. 
 
-- [ ] Provide DevOps with your username for GitHub so they can add you to our teams.  They may have created you one with your sellerlabs email.
+- [ ] Provide DevOps with your username for GitHub so they can add you to our teams.  They may have created you one with your Seller Labs email.
 
 - [ ] As you are starting, you should review this document and all of the [lounge repo](https://github.com/sellerlabs/lounge) for accuracy. Is anything here wrong? You can fix it!
 
@@ -47,9 +47,9 @@ The Seller Labs Team
 
 ## Customer Success Onboarding:
 
-- [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for yourname@sellerlabs.com. If you don't have it yet, ping @brian. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
+- [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for <you>@sellerlabs.com. If you don't have it yet, ping @brian. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
 
-- [ ] Get someone to help you setup your account in the [Seller Labs App](https://accounts.sellerlabs.com/). You can create a free account there yourself (with your SL email), and then DevOps can make you an admin user.
+- [ ] Get someone to help you setup your account in the [Seller Labs App](https://accounts.sellerlabs.com/). You can create a free account there yourself (with your SL email), and then DevOps can make you an admin user. Marilyn (@mcole) would be glad to help you with this!
 
 - [ ] You will probably also get invites to things like Intercom and Mandrill. Be on the lookout for those.
 
@@ -67,7 +67,7 @@ HR Director: Maria Goldsholl (maria.goldsholl@techcxo.com)
 
 Benefits and paycheck questions: Fran Neumeister (fran@sellerlabs.com) and Karen Hogan (karen.hogan@sellerlabs.com)
 
-Developer setup: Brian Whigham (brian@sellerlabs.com)
+Developer setup: Brian Whigham (brian@sellerlabs.com / @brian) and Buz Dale (buz.dale@sellerlabs.com / @Buz)
 
 (All four of them are available on Slack as well!)
 
