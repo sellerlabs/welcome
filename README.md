@@ -33,7 +33,7 @@ The Seller Labs Team
 
 - [ ] Hearing tons of terms and acronyms you don't know? Check out the [Seller Labs Dictionary](https://docs.google.com/document/d/1hL93Ibz2Y2CUGHoCElv13T6N57yxetNSz35yvZAJ3jM/edit#heading=h.sv5mn78ew49i) for help!
 
-- [ ] Take a picture of yourself and add it to the [company directory](https://sites.google.com/a/roundsphere.com/sellerlabsnet/directory). 
+- [ ] Take a picture of yourself and add it to the [company directory](https://sites.google.com/a/sellerlabs.com/docs/directory). 
 
 - [ ] Check out this [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. 
 
