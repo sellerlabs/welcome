@@ -67,7 +67,7 @@ HR Director: Maria Goldsholl (maria.goldsholl@techcxo.com)
 
 Benefits and paycheck questions: Fran Neumeister (fran@sellerlabs.com) and Karen Hogan (karen.hogan@sellerlabs.com)
 
-Developer setup: Brian Whigham (brian@sellerlabs.com / @brian) and Buz Dale (buz.dale@sellerlabs.com / @Buz)
+Developer setup: Buz Dale (buz.dale@sellerlabs.com / @Buz)
 
-(All four of them are available on Slack as well!)
+(All three of them are available on Slack as well!)
 
