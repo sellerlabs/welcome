@@ -47,14 +47,14 @@ The Seller Labs Team
 
 ## Customer Success Onboarding:
 
-- [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for <you>@sellerlabs.com. If you don't have it yet, ping @Buz. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
+- [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for (you)@sellerlabs.com. If you don't have it yet, ping @Buz. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
 
 - [ ] Get someone to help you setup your account in the [Seller Labs App](https://accounts.sellerlabs.com/). You can create a free account there yourself (with your SL email), and then DevOps can make you an admin user. Marilyn (@mcole) would be glad to help you with this!
 
 - [ ] You will probably also get invites to things like Intercom and Mandrill. Be on the lookout for those.
 
 ## Developer Onboarding:
-- [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for <you>@sellerlabs.com. If you don't have it yet, ping @Buz. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
+- [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for (you)@sellerlabs.com. If you don't have it yet, ping @Buz. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
 
 - [ ] You'll be given an AWS account. You should be in the developers group. It is recommended you enable [MFA (multi-factor authentication)](https://github.com/sellerlabs/lounge/blob/master/mfa.md).
 
