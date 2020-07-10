@@ -21,21 +21,19 @@ The Seller Labs Team
 - [ ] You will receive a "Welcome Letter" from Human Resources that will cover instructions for your first day, payroll and benefit information. 
 
 ## When you start:
-- [ ] Connect to [wifi](https://github.com/sellerlabs/lounge/blob/master/wifi.md) if you're in the Athens office. 
+<!-- - [ ] Connect to [wifi](https://github.com/sellerlabs/lounge/blob/master/wifi.md) if you're in the Athens office. -->
 
 - [ ] You should have received an invitation to the Seller Labs Slack - ask your team to invite you to the appropriate Slack channels. 
 
 - [ ] DevOps should have set you up to the appropriate Google Apps groups and Calendars for Events and Leave:  [Seller Labs Events](https://calendar.google.com/calendar/embed?src=roundsphere.com_v7o7fnubciu8pi5ihni437j6e4%40group.calendar.google.com&ctz=America%2FNew_York) and [Leave](https://calendar.google.com/calendar/embed?src=roundsphere.com_sd6r3nmregejpaqdv6jb945d00%40group.calendar.google.com&ctz=America%2FNew_York). Note that most of your teammates' calendars are also accessible to view by searching for their name in the left sidebar on Google Calendar. You can then toggle viewing their calendar on and off. This might be nice for someone you'll be pairing with a lot in your first weeks, or for your manager.
 
-- [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg).
+<!-- - [ ] If you'll be working in the Athens office, get a key fob from the office manager. This will allow you to open the electronically locked doors to our office after hours, and the gate to the parking deck downstairs anytime. Confirm where you can park on the parking [map](https://51ea6219-a-926af68e-s-sites.googlegroups.com/a/roundsphere.com/sellerlabsnet/office-space/parking/athens-parking-map.jpg). -->
 
-- [ ] You should have an account for [backing up your laptop](https://github.com/sellerlabs/lounge/blob/master/security/backups.md).
+<!-- - [ ] You should have an account for [backing up your laptop](https://github.com/sellerlabs/lounge/blob/master/security/backups.md). -->
 
 - [ ] Hearing tons of terms and acronyms you don't know? Check out the [Seller Labs Dictionary](https://docs.google.com/document/d/1hL93Ibz2Y2CUGHoCElv13T6N57yxetNSz35yvZAJ3jM/edit#heading=h.sv5mn78ew49i) for help!
 
-- [ ] Take a picture of yourself and add it to the [company directory](https://sites.google.com/a/sellerlabs.com/docs/directory). 
-
-- [ ] Check out this [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. 
+- [ ] Check out this old [presentation](https://www.youtube.com/watch?v=0-eSJVQrVS0) (from 2017!) to walk through the flow of our products, their individual use cases and possibilities, and how they align with our customer's needs. 
 
 - [ ] Provide DevOps with your username for GitHub so they can add you to our teams.  They may have created you one with your Seller Labs email.
 
@@ -43,7 +41,7 @@ The Seller Labs Team
 
 - [ ] Read [this great thread](https://twitter.com/KieranSnyder/status/774253168247005185) on how to get started at a new job.
 
-- [ ] Over the course of the next two weeks, introduce yourself personally to 8 people. Ideally, this is a 10 - 15 minute conversation that is intended to break the ice. Be creative; go for a coffee. Don't forget our remote folks!
+- [ ] Over the course of the next two weeks, introduce yourself personally to 8 people. Ideally, this is a 10 - 15 minute conversation that is intended to break the ice. You can spin up a video call with folks in Slack over DM, and join #virtual-coffee to be automatically assigned for a chat.
 
 ## Customer Success Onboarding:
 
@@ -69,5 +67,5 @@ Benefits and paycheck questions: Fran Neumeister (fran@sellerlabs.com) and Karen
 
 Developer setup: Buz Dale (buz.dale@sellerlabs.com / @Buz)
 
-(All three of them are available on Slack as well!)
+(All four of them are available on Slack as well!)
 
