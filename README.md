@@ -47,8 +47,7 @@ The Seller Labs Team
 
 - [ ] Check your email. You should have an invite to Enterprise LastPass. It will be for (you)@sellerlabs.com. If you don't have it yet, ping @Buz. Follow the setup instructions for [Passwords and Security](https://github.com/sellerlabs/lounge/blob/master/passwords.md).
 
-- [ ] Get someone to help you setup your account in the [Seller Labs App](https://accounts.sellerlabs.com/). You can create a free account there yourself (with your SL email), and then DevOps can make you an admin user. Marilyn (@mcole) would be glad to help you with this!
-
+- [ ] Get someone to help you setup your account in the [Seller Labs App](https://accounts.sellerlabs.com/). You can create a free account there yourself (with your SL email), and then DevOps can make you an admin user. Whoever is training you can help get this set up.
 - [ ] You will probably also get invites to things like Intercom and Mandrill. Be on the lookout for those.
 
 ## Developer Onboarding:
@@ -61,11 +60,9 @@ The Seller Labs Team
 - [ ] Ensure you have a good understanding of our [git best practices](https://github.com/sellerlabs/engineering-lounge/blob/master/git/style.md) and [code review policy](https://github.com/sellerlabs/engineering-lounge/blob/master/code-review.md).
 
 ## Who to contact with questions:
-HR Director: Maria Goldsholl (maria.goldsholl@techcxo.com)
-
-Benefits and paycheck questions: Fran Neumeister (fran@sellerlabs.com) and Karen Hogan (karen.hogan@sellerlabs.com)
+Benefits, paycheck and HR questions: Karen Hogan (karen.hogan@sellerlabs.com) and Lindsay Tabor (lindsay.tabor@sellerlabs.com)
 
 Developer setup: Buz Dale (buz.dale@sellerlabs.com / @Buz)
 
-(All four of them are available on Slack as well!)
+(All three of them are available on Slack as well!)
 
